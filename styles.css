@@ -1,0 +1,49 @@
+/* Estilos para la página principal */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Estilos para la sección de juegos */
+.main-content {
+  max-width: 960px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.game {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+/* Estilos para el pie de página */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
